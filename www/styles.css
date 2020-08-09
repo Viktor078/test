@@ -1,0 +1,21 @@
+.justify-content-center {
+    background-color: #0c5460;
+
+}
+.col-4{
+    background-color: #4e555b;
+    margin: auto;
+
+}
+.col-8 {
+    background-color: #6c757d;
+
+
+}
+#tasklist{
+    background-color: orange;
+}
+#status {
+    background-color: darkgoldenrod;
+    text-align: center;
+}
